@@ -1,0 +1,31 @@
+{
+	"name": "This is a course demo",	
+	"info": "You can add info abort this course here.",
+	"author":"Voidcode",
+	"license": "Attribution 4.0 International (CC BY 4.0)",
+	"answerserver":"https://howtoapp.voidcode.eu/",
+	"exams":[
+		[ 
+			{
+				"question":"PHP5?"
+			},
+		 	{	
+		 		"choice":"An cleaning method!", 
+		 		"answer":false
+		 	},
+		 	{
+		 		"choice":"An scripting langange .", 
+		 		"answer":true
+		 	}
+		],
+		[ 
+			{
+				"question":"What is css"
+			},
+		 	{
+		 		"choice":"An markup langages", 
+		 		"answer":true
+		 	}
+	 	]
+	]
+}
